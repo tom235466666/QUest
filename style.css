@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(60deg, white, violet);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+input[type="checkbox"] {
+  accent-color: rgb(167, 94, 255);
+  margin-bottom: 20px;
+}
+
+.display {
+  display: none;
+  margin-top: 15px;
+}
