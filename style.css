@@ -34,3 +34,11 @@ img {
   top: 5vh;
 }
 
+
+@media(min-width:1900px){
+  img{
+    position: absolute;
+    left: 44vw;
+    top: 5vh;
+  }
+}
