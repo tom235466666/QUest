@@ -19,3 +19,18 @@ input[type="checkbox"] {
   display: none;
   margin-top: 15px;
 }
+
+
+
+
+
+img {
+  width: 40vw;      
+  max-width: 300px; 
+  height: auto;  
+  max-height: 40vh;
+  position: absolute;
+  left: 30vw;
+  top: 10vh;
+}
+
